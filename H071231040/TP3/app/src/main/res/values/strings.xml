@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TP3</string>
+    <string name="username">cse_9124</string>
+    <string name="real_name">Cholyn Sharon Enos</string>
+    <string name="post_count">20</string>
+    <string name="postingan">postingan</string>
+    <string name="followers_count">404</string>
+    <string name="pengikut">pengikut</string>
+    <string name="following_count">404</string>
+    <string name="mengikuti">mengikuti</string>
+    <string name="bio">Bio</string>
+    <string name="edit_profile_btn">Edit Profile</string>
+    <string name="bagikan_profile_btn">Bagikan Profile</string>
+</resources>
